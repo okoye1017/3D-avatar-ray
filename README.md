@@ -14,4 +14,6 @@ Unity / C# / MediaPipe（AI姿勢・表情推定）/ UniVRM
 2つのAIで1台のカメラを共有する仕組みや、スレッド安全なデータ処理を自作。AIの生データは震えるため、補間処理と信頼度フィルタでなめらかな動きを実現しました。「動かす」より、問題を切り分け原因を特定して解決する過程を大切にしました。
 
 ## 画像
+<img width="1535" height="807" alt="スクリーンショット 2026-07-17 135349" src="https://github.com/user-attachments/assets/ac187ee0-8fd8-47f0-ac56-c9407539c532" />
+
 <img width="1533" height="790" alt="スクリーンショット 2026-07-01 154639" src="https://github.com/user-attachments/assets/a7f92123-6903-496a-8854-441d0bb0ad71" />
